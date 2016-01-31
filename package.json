@@ -1,0 +1,11 @@
+{
+  "name": "webpack-svg-sprites-example",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "svg-sprite-loader": "^0.0.16",
+    "webpack": "^1.12.12"
+  },
+  "author": "@torgeir",
+  "license": "MIT"
+}
